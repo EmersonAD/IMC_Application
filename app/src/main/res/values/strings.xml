@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImcApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_description">O peso ideal envolve fatores ligados, ao bem estar físico, mental e social. Desta forma, é importante entender que excesso de peso não é sinônimo de excesso de gordura e, por outro lado, existem os falsos magros, com peso reduzido na balança, mas com grande quantidade de gordura corporal.\n\n Para se determinar quadros de obesidade ou peso ideal, são utilizados métodos que envolvem a quantificação direta de gordura corpórea por meio de aparelhos sofisticados de densitometria corporal ou ressonância magnética. Entretanto, esses procedimentos são muito caros para se utilizar como método de rastreamento na população, ainda mais considerando a necessidade de repeti-los a cada nova avaliação clínica. A ciência então busca alternativas práticas e confiáveis para avaliar a adequação da quantidade de gordura corporal, como o Índice de Massa Corpórea (IMC) e o Índice de Adiposidade Corpórea (IAC).</string>
+    <string name="c_lculo_de_imc">Cálculo de IMC</string>
+    <string name="altura_cm">Altura (CM)</string>
+    <string name="peso_kg">Peso (KG)</string>
+    <string name="calcular">Calcular</string>
+    <string name="conhe_a_os_m_todos_para_calcular_a_gordura_corporal">CONHEÇA OS MÉTODOS PARA CALCULAR A GORDURA CORPORAL</string>
+    <string name="seu_estado_atual">SEU ESTADO CORPORAL É:</string>
+    <string name="empty_field_height">Preencha sua altura</string>
+    <string name="empty_field_weight">Preencha seu peso</string>
+
+</resources>
